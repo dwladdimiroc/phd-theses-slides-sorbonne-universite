@@ -1,0 +1,51 @@
+\section[5]{Conclusion}
+
+\begin{frame}{Conclusion}
+\textbf{Adaptive SPS} extending Storm
+\begin{itemize}
+	\item \textbf{Pool of replicas}
+	\item \textbf{Load-aware grouping}
+\end{itemize}
+	
+Two approaches:
+\begin{itemize}
+	\item \textbf{Reactive (RA-SPS)} : Use of a multi-metric
+	\item \textbf{Predictive (PA-SPS)} : Estimate number of active replicas using different predictive models
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Future work}
+Dynamic adaptation of parameters
+	\begin{itemize}
+		\item RA-SPS uses different parameters, which can be adjusted by AI
+	\end{itemize}
+	
+Hybrid adaptive SPS
+	\begin{itemize}
+		\item Use the reactive and predictive model for SPS adaptation
+	\end{itemize}
+
+Physical and logical adaptation
+	\begin{itemize}
+		\item Consider also the modification of virtual machines
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{}
+
+	{\Huge Merci beaucoup !}
+\end{frame}
+
+\begin{frame}{Publications}
+\footnotesize
+
+\begin{itemize}
+	\item[-] [\cite{WladdimiroNCA}] Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo. "A Multi-Metric Adaptive Stream Processing System." In: NCA. IEEE, 2021.
+	\item[-] [\cite{WladdimiroSBAC}] Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo. "A predictive approach for dynamic replication of operators in distributed stream processing systems" In: SBAC. IEEE, 2022.
+	\item[-] [\cite{WladdimiroJPDC}] Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo. "PA-SPS: A Predictive Adaptive Approach for an Elastic Stream Processing System" In: JPDC. 2023. [Minor Revision]
+	\item[-] [\cite{WladdimiroComPAS2022}] Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo. "A predictive model for Stream Processing System that dynamically calibrates the number of operator replicas." In: ComPAS. Amiens, France, 2022.
+	\item[-] [\cite{WladdimiroComPAS2023}] Daniel Wladdimiro, Luciana Arantes, Pierre Sens and Nicolas Hidalgo. "PRESPS: a PREdictive model to determine the number of replicas of the operators in Stream Processing Systems" In: ComPAS. Annecy, France,
+2023.
+\end{itemize}
+\end{frame}
+

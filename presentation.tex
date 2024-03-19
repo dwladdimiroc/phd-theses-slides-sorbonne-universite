@@ -1,0 +1,85 @@
+\documentclass[compress,xcolor=table]{beamer}
+
+% Packages
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{datetime}
+\usepackage{multicol}
+\usepackage{algorithm,algorithmic}
+
+\usepackage{xstring}
+
+\setbeamertemplate{block begin}
+{
+  \par\vskip\medskipamount%
+  \IfStrEq{\insertblocktitle}{}{}{
+      \begin{beamercolorbox}[colsep*=.75ex]{block title}
+        \usebeamerfont*{block title}\insertblocktitle%
+      \end{beamercolorbox}%
+  }
+  {\parskip0pt\par}%
+  \ifbeamercolorempty[bg]{block title}
+  {}
+  {\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+  \usebeamerfont{block body}%
+  \begin{beamercolorbox}[colsep*=.75ex,vmode]{block body}%
+    \ifbeamercolorempty[bg]{block body}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+}
+
+
+
+% Possible options of the package (add/remove below in \usetheme call):
+%  - nosectionpages: no pages between sections
+%  - flama: use flama font, requires xelatex/lualatex + the font to compile
+%  - compressminiframes: put the heading list bullets indications pages on 1 line
+\usetheme[compressminiframes]{sorbonne}
+
+% Title page
+\title{\LARGE Dynamic Adaptation in \\Stream Processing Systems}
+\foottitle{D. Wladdimiro}
+%\subtitle{PhD Defense} % optional subtitle
+\date{Paris - France\\8 January 2023}
+\author{Daniel WLADDIMIRO\\
+{\footnotesize Directeur de thèse : Pierre SENS\\
+Co-encadrants : Luciana ARANTES et Nicolas HIDALGO}}
+\institute{LIP6 - Sorbonne Université, CNRS}
+
+
+
+% Biblatex
+\usepackage[backend=bibtex, style=authoryear, citestyle=authoryear]{biblatex}
+\bibliography{library.bib}
+\renewcommand*{\bibfont}{\footnotesize}
+
+
+\begin{document}
+
+\begin{frame}[plain]
+	\titlepage
+	\setcounter{framenumber}{0}
+\end{frame}
+
+\begin{frame}{Table of contents}
+\tableofcontents
+\end{frame}
+
+\input{section/introduction}
+\input{section/relatedwork}
+\input{section/solution}
+\input{section/solution-reactive}
+\input{section/solution-predictive}
+\input{section/experiments}
+\input{section/experiments-reactive}
+\input{section/experiments-predictive}
+\input{section/conclusion}
+
+\appendix
+
+\begin{frame}[allowframebreaks]
+\frametitle{References}
+\printbibliography
+\end{frame}
+
+\end{document}
+

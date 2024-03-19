@@ -1,0 +1,846 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{CarboneKEMHT15}{article}{}
+    \name{author}{6}{}{%
+      {{hash=CP}{%
+         family={Carbone},
+         familyi={C\bibinitperiod},
+         given={Paris},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Katsifodimos},
+         familyi={K\bibinitperiod},
+         given={Asterios},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Ewen},
+         familyi={E\bibinitperiod},
+         given={Stephan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MV}{%
+         family={Markl},
+         familyi={M\bibinitperiod},
+         given={Volker},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=HS}{%
+         family={Haridi},
+         familyi={H\bibinitperiod},
+         given={Seif},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TK}{%
+         family={Tzoumas},
+         familyi={T\bibinitperiod},
+         given={Kostas},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CP+1}
+    \strng{fullhash}{CPKAESMVHSTK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2015}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{number}{4}
+    \field{pages}{28\bibrangedash 38}
+    \field{title}{Apache Flink{\texttrademark}: Stream and Batch Processing in
+  a Single Engine}
+    \field{volume}{38}
+    \field{journaltitle}{{IEEE} Data Eng. Bull.}
+    \field{year}{2015}
+  \endentry
+
+  \entry{CardelliniPNR18}{article}{}
+    \name{author}{4}{}{%
+      {{hash=CV}{%
+         family={Cardellini},
+         familyi={C\bibinitperiod},
+         given={Valeria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PFL}{%
+         family={Presti},
+         familyi={P\bibinitperiod},
+         given={Francesco\bibnamedelima Lo},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Nardelli},
+         familyi={N\bibinitperiod},
+         given={Matteo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=RGR}{%
+         family={Russo},
+         familyi={R\bibinitperiod},
+         given={Gabriele\bibnamedelima Russo},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{CV+1}
+    \strng{fullhash}{CVPFLNMRGR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{pages}{171\bibrangedash 185}
+    \field{title}{Decentralized self-adaptation for elastic Data Stream
+  Processing}
+    \field{volume}{87}
+    \field{journaltitle}{Future Gener. Comput. Syst.}
+    \field{year}{2018}
+  \endentry
+
+  \entry{GedikSHW14}{article}{}
+    \name{author}{4}{}{%
+      {{hash=GB}{%
+         family={Gedik},
+         familyi={G\bibinitperiod},
+         given={Bugra},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Schneider},
+         familyi={S\bibinitperiod},
+         given={Scott},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HM}{%
+         family={Hirzel},
+         familyi={H\bibinitperiod},
+         given={Martin},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Kun{-}Lung},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GB+1}
+    \strng{fullhash}{GBSSHMWK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{6}
+    \field{pages}{1447\bibrangedash 1463}
+    \field{title}{Elastic Scaling for Data Stream Processing}
+    \field{volume}{25}
+    \field{journaltitle}{{IEEE} Trans. Parallel Distrib. Syst.}
+    \field{year}{2014}
+  \endentry
+
+  \entry{GulisanoJPSV12}{article}{}
+    \name{author}{5}{}{%
+      {{hash=GV}{%
+         family={Gulisano},
+         familyi={G\bibinitperiod},
+         given={Vincenzo},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=JR}{%
+         family={Jim{\'{e}}nez{-}Peris},
+         familyi={J\bibinitperiod},
+         given={Ricardo},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PM}{%
+         family={Pati{\~{n}}o{-}Mart{\'{\i}}nez},
+         familyi={P\bibinitperiod},
+         given={Marta},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Soriente},
+         familyi={S\bibinitperiod},
+         given={Claudio},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=VP}{%
+         family={Valduriez},
+         familyi={V\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GV+1}
+    \strng{fullhash}{GVJRPMSCVP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{number}{12}
+    \field{pages}{2351\bibrangedash 2365}
+    \field{title}{StreamCloud: An Elastic and Scalable Data Streaming System}
+    \field{volume}{23}
+    \field{journaltitle}{{IEEE} Trans. Parallel Distributed Syst.}
+    \field{year}{2012}
+  \endentry
+
+  \entry{HeinzeJHF14}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=HT}{%
+         family={Heinze},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=JZ}{%
+         family={Jerzak},
+         familyi={J\bibinitperiod},
+         given={Zbigniew},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HG}{%
+         family={Hackenbroich},
+         familyi={H\bibinitperiod},
+         given={Gregor},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Fetzer},
+         familyi={F\bibinitperiod},
+         given={Christof},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{HT+1}
+    \strng{fullhash}{HTJZHGFC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{booktitle}{{DEBS}}
+    \field{pages}{13\bibrangedash 22}
+    \field{title}{Latency-aware elastic scaling for distributed data stream
+  processing systems}
+    \field{year}{2014}
+  \endentry
+
+  \entry{KahveciG20}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KB}{%
+         family={Kahveci},
+         familyi={K\bibinitperiod},
+         given={Basri},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Gedik},
+         familyi={G\bibinitperiod},
+         given={Bugra},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KBGB1}
+    \strng{fullhash}{KBGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{205\bibrangedash 223}
+    \field{title}{Joker: Elastic stream processing with organic adaptation}
+    \field{volume}{137}
+    \field{journaltitle}{J. Parallel Distributed Comput.}
+    \field{year}{2020}
+  \endentry
+
+  \entry{KombiLLRB19}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KRK}{%
+         family={Kombi},
+         familyi={K\bibinitperiod},
+         given={Roland\bibnamedelima Kotto},
+         giveni={R\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=LN}{%
+         family={Lumineau},
+         familyi={L\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Lamarre},
+         familyi={L\bibinitperiod},
+         given={Philippe},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RN}{%
+         family={Rivetti},
+         familyi={R\bibinitperiod},
+         given={Nicolo},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Busnel},
+         familyi={B\bibinitperiod},
+         given={Yann},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KRK+1}
+    \strng{fullhash}{KRKLNLPRNBY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{pages}{58\bibrangedash 93}
+    \field{title}{DABS-Storm: {A} Data-Aware Approach for Elastic Stream
+  Processing}
+    \field{volume}{40}
+    \field{journaltitle}{Trans. Large Scale Data Knowl. Centered Syst.}
+    \field{year}{2019}
+  \endentry
+
+  \entry{LombardiABQ18}{article}{}
+    \name{author}{4}{}{%
+      {{hash=LF}{%
+         family={Lombardi},
+         familyi={L\bibinitperiod},
+         given={Federico},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Aniello},
+         familyi={A\bibinitperiod},
+         given={Leonardo},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Bonomi},
+         familyi={B\bibinitperiod},
+         given={Silvia},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=QL}{%
+         family={Querzoni},
+         familyi={Q\bibinitperiod},
+         given={Leonardo},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LF+1}
+    \strng{fullhash}{LFALBSQL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{number}{3}
+    \field{pages}{572\bibrangedash 585}
+    \field{title}{Elastic Symbiotic Scaling of Operators and Resources in
+  Stream Processing Systems}
+    \field{volume}{29}
+    \field{journaltitle}{{IEEE} Trans. Parallel Distrib. Syst.}
+    \field{year}{2018}
+  \endentry
+
+  \entry{MadsenZS16}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=MKGS}{%
+         family={Madsen},
+         familyi={M\bibinitperiod},
+         given={Kasper Grud\bibnamedelima Skat},
+         giveni={K\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim
+  S\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhou},
+         familyi={Z\bibinitperiod},
+         given={Yongluan},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SL}{%
+         family={Su},
+         familyi={S\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{ACM}}%
+    }
+    \strng{namehash}{MKGSZYSL1}
+    \strng{fullhash}{MKGSZYSL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{booktitle}{{DEBS}}
+    \field{pages}{37\bibrangedash 48}
+    \field{title}{Enorm: efficient window-based computation in large-scale
+  distributed stream processing systems}
+    \field{year}{2016}
+  \endentry
+
+  \entry{MencagliTD18}{article}{}
+    \name{author}{3}{}{%
+      {{hash=MG}{%
+         family={Mencagli},
+         familyi={M\bibinitperiod},
+         given={Gabriele},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Torquati},
+         familyi={T\bibinitperiod},
+         given={Massimo},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DM}{%
+         family={Danelutto},
+         familyi={D\bibinitperiod},
+         given={Marco},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MGTMDM1}
+    \strng{fullhash}{MGTMDM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{M}
+    \field{sortinithash}{M}
+    \field{pages}{862\bibrangedash 877}
+    \field{title}{Elastic-PPQ: {A} two-level autonomic system for spatial
+  preference query processing over dynamic data streams}
+    \field{volume}{79}
+    \field{journaltitle}{Future Gener. Comput. Syst.}
+    \field{year}{2018}
+  \endentry
+
+  \entry{RussoCCP21}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=RGR}{%
+         family={Russo},
+         familyi={R\bibinitperiod},
+         given={Gabriele\bibnamedelima Russo},
+         giveni={G\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=CV}{%
+         family={Cardellini},
+         familyi={C\bibinitperiod},
+         given={Valeria},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Casale},
+         familyi={C\bibinitperiod},
+         given={Giuliano},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=PFL}{%
+         family={Presti},
+         familyi={P\bibinitperiod},
+         given={Francesco\bibnamedelima Lo},
+         giveni={F\bibinitperiod\bibinitdelim L\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{namehash}{RGR+1}
+    \strng{fullhash}{RGRCVCGPFL1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{booktitle}{{CCGRID}}
+    \field{pages}{314\bibrangedash 323}
+    \field{title}{{MEAD:} Model-Based Vertical Auto-Scaling for Data Stream
+  Processing}
+    \field{year}{2021}
+  \endentry
+
+  \entry{SatzgerHLD11}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=SB}{%
+         family={Satzger},
+         familyi={S\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hummer},
+         familyi={H\bibinitperiod},
+         given={Waldemar},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LP}{%
+         family={Leitner},
+         familyi={L\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=DS}{%
+         family={Dustdar},
+         familyi={D\bibinitperiod},
+         given={Schahram},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE} Computer Society}%
+    }
+    \strng{namehash}{SB+1}
+    \strng{fullhash}{SBHWLPDS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{booktitle}{{IEEE} {CLOUD}}
+    \field{pages}{348\bibrangedash 355}
+    \field{title}{Esc: Towards an Elastic Stream Computing Platform for the
+  Cloud}
+    \field{year}{2011}
+  \endentry
+
+  \entry{toshniwal2014storm}{inproceedings}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=TA}{%
+         family={Toshniwal},
+         familyi={T\bibinitperiod},
+         given={Ankit},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=TS}{%
+         family={Taneja},
+         familyi={T\bibinitperiod},
+         given={Siddarth},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SA}{%
+         family={Shukla},
+         familyi={S\bibinitperiod},
+         given={Amit},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RK}{%
+         family={Ramasamy},
+         familyi={R\bibinitperiod},
+         given={Karthik},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PJM}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={Jignesh\bibnamedelima M},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+      {{hash=KS}{%
+         family={Kulkarni},
+         familyi={K\bibinitperiod},
+         given={Sanjeev},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=JJ}{%
+         family={Jackson},
+         familyi={J\bibinitperiod},
+         given={Jason},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GK}{%
+         family={Gade},
+         familyi={G\bibinitperiod},
+         given={Krishna},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FM}{%
+         family={Fu},
+         familyi={F\bibinitperiod},
+         given={Maosong},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DJ}{%
+         family={Donham},
+         familyi={D\bibinitperiod},
+         given={Jake},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {ACM}%
+    }
+    \strng{namehash}{TA+1}
+    \strng{fullhash}{TATSSARKPJMKSJJGKFMDJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+    \field{booktitle}{Proceedings of the 2014 ACM SIGMOD international
+  conference on Management of data}
+    \field{pages}{147\bibrangedash 156}
+    \field{title}{Storm@ Twitter}
+    \field{year}{2014}
+  \endentry
+
+  \entry{WladdimiroNCA}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WD}{%
+         family={Wladdimiro},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arantes},
+         familyi={A\bibinitperiod},
+         given={Luciana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sens},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hidalgo},
+         familyi={H\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{namehash}{WD+1}
+    \strng{fullhash}{WDALSPHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{{NCA}}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{A Multi-Metric Adaptive Stream Processing System}
+    \field{year}{2021}
+  \endentry
+
+  \entry{WladdimiroSBAC}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WD}{%
+         family={Wladdimiro},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arantes},
+         familyi={A\bibinitperiod},
+         given={Luciana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sens},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hidalgo},
+         familyi={H\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {{IEEE}}%
+    }
+    \strng{namehash}{WD+1}
+    \strng{fullhash}{WDALSPHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{{SBAC-PAD}}
+    \field{title}{A predictive approach for dynamic replication of operators in
+  distributed stream processing systems}
+    \field{year}{2022}
+  \endentry
+
+  \entry{WladdimiroComPAS2022}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WD}{%
+         family={Wladdimiro},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arantes},
+         familyi={A\bibinitperiod},
+         given={Luciana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sens},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hidalgo},
+         familyi={H\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD+1}
+    \strng{fullhash}{WDALSPHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2022}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{{ComPAS}}
+    \field{pages}{1\bibrangedash 8}
+    \field{title}{A predictive model for Stream Processing System that
+  dynamically calibrates the number of operator replicas}
+    \field{year}{2022}
+  \endentry
+
+  \entry{WladdimiroJPDC}{article}{}
+    \name{author}{4}{}{%
+      {{hash=WD}{%
+         family={Wladdimiro},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arantes},
+         familyi={A\bibinitperiod},
+         given={Luciana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sens},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hidalgo},
+         familyi={H\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD+1}
+    \strng{fullhash}{WDALSPHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{extradate}{1}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{title}{PA-SPS: A Predictive Adaptive Approach for an Elastic Stream
+  Processing System}
+    \field{journaltitle}{J. Parallel Distributed Comput.}
+    \field{year}{2023}
+  \endentry
+
+  \entry{WladdimiroComPAS2023}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=WD}{%
+         family={Wladdimiro},
+         familyi={W\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AL}{%
+         family={Arantes},
+         familyi={A\bibinitperiod},
+         given={Luciana},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Sens},
+         familyi={S\bibinitperiod},
+         given={Pierre},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=HN}{%
+         family={Hidalgo},
+         familyi={H\bibinitperiod},
+         given={Nicolas},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WD+1}
+    \strng{fullhash}{WDALSPHN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2023}
+    \field{extradate}{2}
+    \field{labeldatesource}{}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+    \field{booktitle}{{ComPAS}}
+    \field{pages}{1\bibrangedash 9}
+    \field{title}{PRESPS: a PREdictive model to determine the number of
+  replicas of the operators in Stream Processing Systems}
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput
